@@ -1,4 +1,4 @@
-### Hi there, I'm Rimon 👋
+### Hi there, I'm Sazid 👋
 ## I'm a developer at beginner stage!
 - 🌱 I’m currently learning everything about coding world.
 - &copy;2020 Goals: Improve My Coding Knowledge.
@@ -7,10 +7,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NahimRimon | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Nahim Rimon | facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="rimonahim | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Nahim Rimon | linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HabibSazid | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mahabuba.sazidhabib | facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="sazidhabib | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mahabub Sazid Habib | linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -30,8 +30,8 @@
 <br/>
 <br/>
 <br/>
-<img align="left" alt="NahimRimon Github Stats" src="https://github-readme-stats.vercel.app/api?username=NahimRimon&show_icons=true&hide_border=true"/>
-[twitter]: https://twitter.com/NahimRimon
-[facebook]: https://www.facebook.com/RimoNahiM
-[instagram]: https://www.instagram.com/rimonahim
-[linkedin]: https://www.linkedin.com/in/nahim-rimon/
+<img align="left" alt="sazidhabib Github Stats" src="https://github-readme-stats.vercel.app/api?username=sazidhabib&show_icons=true&hide_border=true"/>
+[twitter]: https://twitter.com/HabibSazid
+[facebook]: https://www.facebook.com/mahabuba.sazidhabib
+[instagram]: https://www.instagram.com/sazidhabib/
+[linkedin]: https://www.linkedin.com/in/mahabub-sazid-habib-ba4754168/
