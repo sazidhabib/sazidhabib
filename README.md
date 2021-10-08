@@ -43,7 +43,9 @@
     <a title="SQL"><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/></a>
     <a title="MySQL"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/></a>
     <a title="Atom"><img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"/></a>
-    <a title="Atom"><img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>  
+    <a title="PHP"><img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
+    <a title="C Programming"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+    <a title="Github"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
      
 </p>
 
