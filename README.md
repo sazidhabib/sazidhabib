@@ -45,6 +45,7 @@
     <a title="PHP"><img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
     <a title="C Programming"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a title="C Programming"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a title="C Sharp"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     <a title="Github"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
     <a title="scss"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
      
