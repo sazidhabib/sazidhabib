@@ -47,6 +47,7 @@
     <a title="C Programming"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a title="C Sharp"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     <a title="Github"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+    <a title="Github"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
     <a title="scss"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
      
 </p>
