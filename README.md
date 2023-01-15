@@ -49,7 +49,7 @@
     <a title="Github"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
     <a title="PostgreeSql"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
     <a title="scss"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-     <a title="Unity Game Engine"><img src="https://img.icons8.com/ios-filled/50/null/unity.png"/></a>
+     <a title="Unity Game Engine"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
     
      
 </p>
