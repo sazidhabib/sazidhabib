@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-## I'm a developer at beginner stage!
+## I'm a developer in the junior stage!
 - 🌱 I’m currently learning everything about coding world.
 - ⚡ Goals: Improve My Coding Knowledge.
 - ⚡ Fun fact: I love to create things,watch movies and making new friends.
