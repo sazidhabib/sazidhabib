@@ -1,12 +1,34 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sazid Habib</h1>
-<h3 align="center">A passionate Software Engineer and Frontend Specialist, creating high-performance, user-centric web applications and dynamic data visualizations.</h3>
+<h3 align="center">AFull Stack Software Engineer | Next.js • TypeScript • Node.js</h3>
+I am a performance-driven Software Engineer with 2.5+ years of experience engineering high-traffic web applications, custom Content Management Systems (CMS), and interactive digital products. My focus is on writing type-safe, highly optimized code that scales.
 
+---
 
-## 🙋‍♂️ About Me
+### 💻 Technical Toolbelt
 
-🔭 I’m currently working on Data visualization projects, custom dashboards, and improving frontend performance using React, Redux.<br><br>👯 I’m looking to collaborate on Innovative frontend development projects that involve complex UI/UX challenges, data visualization, and performance optimization, especially with React. I'm also interested in collaborating with startups, particularly those looking to bring new, cutting-edge ideas to life through great frontend experiences.<br><br>🤝 I’m looking for help with Exploring new opportunities that allow me to relocate to a global tech hub and work on large-scale frontend applications.<br><br>🌱 I’m currently learning Node.js to expand my full-stack development skills and to better integrate frontend solutions with backend systems.<br><br>💬 Ask me about React.js, Redux, Data Visualization, Custom Dashboards, UI/UX Design, and Frontend Performance Optimization.<br><br>
+- **Languages:** TypeScript, JavaScript (ES6+), C#, SQL (MySQL/PostgreSQL), Python, Java
+- **Frontend Architecture:** Next.js (13-16), React 19, Redux Toolkit, SWR, Tailwind CSS
+- **Backend & Databases:** Node.js, Express.js, Sequelize ORM, JWT/RBAC, MongoDB
+- **Performance & DevOps:** Core Web Vitals optimization, Sharp asset compression, PM2, Git/GitHub, Vercel
+
+---
+
+### 🚀 What I'm Up To
+
+- 🔭 **Currently Engineering:** Scalable feature structures, custom publishing tools, and dynamic ad-delivery components at **Ajker Patrika**.
+- 🛠️ **Building in Public:** Designing robust administrative dashboards, "No-Code" layout engines via JSON-based UI schemas, and full-stack platforms.
+- ⚡ **Performance Obsessed:** Constantly squeezing out performance by optimizing Server-Side Rendering (SSR) states and asset pipelines.
+
+---
+
+### 🤝 Let's Collaborate
+
+I love working on production-ready projects, open-source initiatives, and high-performance applications. I am actively looking to connect with engineering teams globally to work on complex system design challenges.
+
+- 💬 **Ask me about:** React 19 architecture, building custom CMS platforms, state management strategies, or transitioning from Unity C# to Web Engineering.
+- 📫 **Reach Me:** [mahabubsazid88@gmail.com](mailto:mahabubsazid88@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/mahbub-sazid-habib).
 
 
 ## Connect with me:
