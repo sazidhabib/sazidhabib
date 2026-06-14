@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sazid Habib</h1>
-<h3 align="center">AFull Stack Software Engineer | Next.js • TypeScript • Node.js</h3>
+<h3 align="center">Full Stack Software Engineer | Next.js • TypeScript • Node.js</h3>
 I am a performance-driven Software Engineer with 2.5+ years of experience engineering high-traffic web applications, custom Content Management Systems (CMS), and interactive digital products. My focus is on writing type-safe, highly optimized code that scales.
 
 ---
