@@ -11,7 +11,7 @@
 
 ## Connect with me:
 
-[![portfolio](https://img.shields.io/badge/My_Portfolio-%23181717.svg?logo=ko-fi&logoColor=white)](https://sazidhabib.onrender.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mahabuba.sazidhabib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sazidhabib/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub-sazid-habib-ba4754168?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bujq0S8pmSWmbpUaHPx45Kw%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HabibSazid) 
+[![portfolio](https://img.shields.io/badge/My_Portfolio-%23181717.svg?logo=ko-fi&logoColor=white)](https://sazidhabib.onrender.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mahabuba.sazidhabib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sazidhabib/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub-sazid-habib?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bujq0S8pmSWmbpUaHPx45Kw%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HabibSazid) 
 
 <br/>
 
